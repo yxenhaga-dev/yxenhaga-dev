@@ -1,13 +1,15 @@
-👋 Hi, I’m @yxenhaga-dev, the lead developer at Yxenhaga Resort.
+Here is the Markdown syntax for your GitHub profile:
 
-👀 I’m passionate about creating seamless tech solutions for hospitality and enhancing guest experiences through innovative code.
-🌱 I’m currently exploring advanced cloud integrations and automation to take Yxenhaga to the next level.
-💞️ I’m open to collaborating on unique web development and software projects that push boundaries.
-📫 You can reach me at development@yxenhaga.se
-😄 Pronouns: M
-⚡ Fun fact: I code with the same energy as Tesla once said: 'The present is theirs; the future, for which I work, is mine.'
+# 👋 Hi, I’m @yxenhaga-dev, the lead developer at **Yxenhaga Resort**.
 
-<!---
-yxenhaga-dev/yxenhaga-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- 👀 **Passion:** I'm dedicated to creating seamless tech solutions for the hospitality industry and enhancing guest experiences through innovative code.
+- 🌱 **Current Focus:** Exploring advanced cloud integrations and automation to propel Yxenhaga to the next level.
+- 💞️ **Collaboration:** I'm open to collaborating on unique web development and software projects that push boundaries and creativity.
+- 📫 **Contact:** You can reach me at [development@yxenhaga.se](mailto:development@yxenhaga.se)
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun Fact:** I code with the same energy as Tesla once said: *"The present is theirs; the future, for which I work, is mine."*
+
+<!---  
+yxenhaga-dev/yxenhaga-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
+You can click the Preview link to take a look at your changes.  
 --->
