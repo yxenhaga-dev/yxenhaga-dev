@@ -2,7 +2,7 @@ Here is the Markdown syntax for your GitHub profile:
 
 # 👋 I’m @yxenhaga-dev, the lead developer at **Yxenhaga Resort**.
 
-- 👀 **Passion:** I'm dedicated to creating seamless tech solutions for the hospitality industry and enhancing guest experiences through innovative code.
+- 👀 **Passion:** I'm focused on building seamless tech solutions for hospitality and enhancing guest experiences with innovative code.
 - 🌱 **Current Focus:** Exploring advanced cloud integrations and automation to propel Yxenhaga to the next level.
 - 💞️ **Collaboration:** I'm open to collaborating on unique web development and software projects that push boundaries and creativity.
 - 📫 **Contact:** You can reach me at [development@yxenhaga.se](mailto:development@yxenhaga.se)
