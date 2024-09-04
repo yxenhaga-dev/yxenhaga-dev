@@ -6,7 +6,7 @@ Here is the Markdown syntax for your GitHub profile:
 - 🌱 **Current Focus:** Exploring advanced cloud integrations and automation to propel Yxenhaga to the next level.
 - 💞️ **Collaboration:** I'm open to collaborating on unique web development and software projects that push boundaries and creativity.
 - 📫 **Contact:** You can reach me at [development@yxenhaga.se](mailto:development@yxenhaga.se)
-- 😄 **Pronouns:** He/Him
+- 😄 **Pronouns:** Millennial
 - ⚡ **Fun Fact:** I code with the same energy as Tesla once said: *"The present is theirs; the future, for which I work, is mine."*
 
 <!---  
